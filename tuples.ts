@@ -1,10 +1,10 @@
 //  write out an object that looks like that drink object
 //  that we just put together or was inside that diagram
-const drink = {
-  color: "brown",
-  carbonated: true,
-  sugar: 40,
-};
+// const drink = {
+//   color: "brown",
+//   carbonated: true,
+//   sugar: 40,
+// };
 
 //   And I'm going to write out what looks like an array.
 // const pepsi = ["brown", true, 40];
